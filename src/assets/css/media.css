@@ -1,0 +1,55 @@
+/* 
+    pc端 分辨率
+*/
+
+@media only screen and (min-width:1680px) and (max-width:1920px) {
+    html {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (min-width:1440px) and (max-width:1680px) {
+    html {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1440px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* 
+    移动端 分辨率
+*/
+
+@media only screen and (min-width:667px) and (max-width:800px) {
+    html {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (min-width:540px) and (max-width:667px) {
+    html {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (min-width:414px) and (max-width:540px) {
+    html {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-width:414px) {
+    html {
+        font-size: 26px;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:375px) {
+    html {
+        font-size: 24px;
+    }
+}
